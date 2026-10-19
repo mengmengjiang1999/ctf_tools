@@ -1,0 +1,2726 @@
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/6/14 12:45:05
+
+正在加载数据库...
+找到文件类型个数:5069
+正在加载目标文件 "I:\绝命时刻 五星之光V1.3\绝命时刻 五星之光 中国将军\setup.W02"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/6/14 12:45:13
+
+正在加载数据库...
+找到文件类型个数:5069
+正在加载目标文件 "I:\绝命时刻 五星之光V1.3\绝命时刻 五星之光 中国将军\setup.EXE"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 43.6% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+ 29.9% (.EXE) Win32 Executable (generic) [4508]
+ 13.3% (.EXE) Generic Win/DOS Executable [2002]
+ 13.2% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/6/27 9:37:37
+
+正在加载数据库...
+找到文件类型个数:5069
+正在加载目标文件 "L:\湖南省2013年高考志愿填报考生子系统客户版\data\data.dat"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/7/2 11:31:18
+
+正在加载数据库...
+找到文件类型个数:5069
+正在加载目标文件 "X:\2013年高考田家炳上三本线志愿填报情况（截至7.2上午11点）.xls"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.HTML) HyperText Markup Language [3000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/7/2 11:52:23
+
+正在加载数据库...
+找到文件类型个数:5069
+正在加载目标文件 "X:\2013年高考田家炳上三本线志愿填报情况（截至7.2上午11点）.xls"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.HTML) HyperText Markup Language [3000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/7/7 21:16:57
+
+正在加载数据库...
+找到文件类型个数:5069
+正在加载目标文件 "J:\人工少女3中文OGG高压版V2.2及（人物、服装、地图、补丁等大合集）\人工少女3简体中文OGG高压版 V2.2\人工少女3简体中文OGG高压版 V2.2[845MB]\人工少女3_v2.2.exe"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 42.3% (.EXE) UPX compressed Win32 Executable [30569]
+ 36.8% (.EXE) Win32 EXE Yoda's Crypter [26569]
+  9.1% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  6.2% (.EXE) Win32 Executable (generic) [4508]
+  2.8% (.EXE) Generic Win/DOS Executable [2002]
+  2.8% (.EXE) DOS Executable Generic [2000]
+  0.0% (.VXD) VXD Driver [31]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/7/14 12:19:08
+
+正在加载数据库...
+找到文件类型个数:5078
+正在加载目标文件 "K:\[魔穗字幕组][PoRO]姫様限定！「意地っ張りお姫様 オリビア 強気に恥じらう高貴な足指」[1280x720 x264 AAC]\特典CD.tak"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.TAK) TAK lossless compressed audio [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/7/15 15:42:08
+
+正在加载数据库...
+找到文件类型个数:5078
+正在加载目标文件 "E:\FirefoxPortable\stream_3756.php"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 40.9% (.MP3) LAME encoded MP3 audio (ID3 v1.x tag) [4501]
+ 27.3% (.MP3) LAME encoded MP3 audio [3001]
+ 22.7% (.MP3) MP3 audio (ID3 v1.x tag) [2500]
+  9.1% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/7/18 21:39:49
+
+正在加载数据库...
+找到文件类型个数:5078
+正在加载目标文件 "E:\IDMDownloads\当当网\dangdang.com\all_tiny.mdf"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.MDF) Microsoft SQL Server database (generic) [73521]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/7/18 21:39:54
+
+正在加载数据库...
+找到文件类型个数:5078
+正在加载目标文件 "E:\IDMDownloads\当当网\dangdang.com\all_tiny_log.ldf"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 99.9% (.LDF) Microsoft SQL Server log (generic) [5120]
+  0.1% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/7/18 21:41:37
+
+正在加载数据库...
+找到文件类型个数:5078
+正在加载目标文件 "E:\IDMDownloads\当当网\dangdang.com\all_tiny.mdf"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.MDF) Microsoft SQL Server database (generic) [73521]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/7/19 22:43:27
+
+正在加载数据库...
+找到文件类型个数:5078
+正在加载目标文件 "K:\[130717]『風立ちぬ』サウンドトラック\[130717]『風立ちぬ』サウンドトラック／音楽：久石譲[特典 SP CD]\[130717]『風立ちぬ』サウンドトラック／音楽：久石譲[特典 SP CD]\特典 SP CD\PSCD-2458.wvc"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.WVC) WavPack compressed audio correction data [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/7/19 22:43:35
+
+正在加载数据库...
+找到文件类型个数:5078
+正在加载目标文件 "K:\[130717]『風立ちぬ』サウンドトラック\[130717]『風立ちぬ』サウンドトラック／音楽：久石譲[特典 SP CD]\[130717]『風立ちぬ』サウンドトラック／音楽：久石譲[特典 SP CD]\特典 SP CD\PSCD-2458.wv"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 42.3% (.EXE) UPX compressed Win32 Executable [30569]
+ 36.8% (.EXE) Win32 EXE Yoda's Crypter [26569]
+  9.1% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  6.2% (.EXE) Win32 Executable (generic) [4508]
+  2.8% (.EXE) Generic Win/DOS Executable [2002]
+  2.8% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/7/29 8:43:47
+
+正在加载数据库...
+找到文件类型个数:5078
+正在加载目标文件 "U:\audio0376.amr"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.AMR) AMR (Adaptive Multi Rate) encoded audio [6000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/1 12:48:45
+
+正在加载数据库...
+找到文件类型个数:5078
+正在加载目标文件 "K:\我的狐仙女友\[我的狐仙女友].[SumiSora&amp;CASO][Kanokon][OVA][GB][02].php.td"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 88.9% (.RMVB) RealVideo Variable Bit Rate [72508]
+ 11.1% (.RM) Real Media stream [9018]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/1 12:49:01
+
+正在加载数据库...
+找到文件类型个数:5078
+正在加载目标文件 "K:\我的狐仙女友\[我的狐仙女友].[SumiSora&amp;CASO][Kanokon][OVA][GB][01].rmvb"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 88.9% (.RMVB) RealVideo Variable Bit Rate [72508]
+ 11.1% (.RM) Real Media stream [9018]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/4 23:53:12
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "C:\Users\Administrator\Desktop\打印1_files\showPic.aspx.html"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 50.0% (.JPG) JFIF JPEG Bitmap [4003]
+ 37.5% (.JPG) JPEG Bitmap [3000]
+ 12.5% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/4 23:54:39
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "C:\Users\Administrator\Desktop\打印1.htm"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.HTML) HyperText Markup Language [3000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/13 14:54:38
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "I:\minecraft\我的世界1.5.1自然之国整合包.exe"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 67.4% (.EXE) Win32 Executable MS Visual C++ (generic) [31206]
+ 14.2% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  9.7% (.EXE) Win32 Executable (generic) [4508]
+  4.3% (.EXE) Generic Win/DOS Executable [2002]
+  4.3% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/13 14:54:51
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "I:\minecraft\我的世界1.5.1超多MOD整合包.exe"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 67.4% (.EXE) Win32 Executable MS Visual C++ (generic) [31206]
+ 14.2% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  9.7% (.EXE) Win32 Executable (generic) [4508]
+  4.3% (.EXE) Generic Win/DOS Executable [2002]
+  4.3% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/13 16:51:40
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "I:\minecraft\我的世界科技树mod0.2\mclauncher+.exe"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 67.4% (.EXE) Win32 Executable MS Visual C++ (generic) [31206]
+ 14.2% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  9.7% (.EXE) Win32 Executable (generic) [4508]
+  4.3% (.EXE) Generic Win/DOS Executable [2002]
+  4.3% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/16 18:02:10
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "E:\IDMDownloads\CallRecorder.apk"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 58.7% (.APK) Android Package [52500]
+ 27.9% (.) OpenDocument Format (generic) [25000]
+  8.9% (.XPI) Mozilla Firefox browser extension [8000]
+  4.5% (.ZIP) ZIP compressed archive [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/19 20:01:59
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "I:\minecraft\Ucraft服务器\新手入服指令大全.exe"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.EXE) DOS Executable Generic [2000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/23 3:58:42
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "J:\东方永夜抄\东方永夜抄 中文版\thbgm.dat"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/24 18:20:41
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "E:\IDMDownloads\2013-08-20-CJ.m4a"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 45.3% (.MOV) QuickTime Movie [5000]
+ 27.2% (.MP4) Generic MP4 container [3004]
+  9.3% (.) MacBinary 1 header [1029]
+  9.1% (.ABR) Adobe PhotoShop Brush [1002]
+  9.1% (.) MacBinary 2 header [1002]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/24 18:53:41
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "X:\电子书\泡妞达人\惯例.jpg"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/24 18:55:09
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "X:\电子书\泡妞系列实用教程70套\70.把妹神秘资料-诱奸之谜\《诱奸之谜》.doc"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 80.0% (.DOC) Microsoft Word document [32000]
+ 20.0% (.) Generic OLE2 / Multistream Compound File [8000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/24 22:03:20
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "E:\[NetShowBT]【01.25.12】[The_Sims_3_Master_Suite_Stuff-FLT]["...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 57.7% (.TORRENT) BitTorrent Link (Trackerless) [15000]
+ 42.3% (.TORRENT) BitTorrent Link [11000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/24 22:05:49
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "E:\[NetShowBT]【06.05.12】[The_Sims_3_Katy_Perrys_Sweet_Treats-FLT].torrent"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 57.7% (.TORRENT) BitTorrent Link (Trackerless) [15000]
+ 42.3% (.TORRENT) BitTorrent Link [11000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/24 22:05:53
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "E:\[NetShowBT]【06.05.12】[The_Sims_3_Katy_Perrys_Sweet_Treats-FLT].torrent"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 57.7% (.TORRENT) BitTorrent Link (Trackerless) [15000]
+ 42.3% (.TORRENT) BitTorrent Link [11000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/25 15:23:31
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "I:\minecraft\GOA工业生存合并服务器\GOA工业生存合并服务器1.0beta 第四周目 免安装版 要解压里面所有文件才能成功打开客户端\mclauncher.exe"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 42.3% (.EXE) UPX compressed Win32 Executable [30569]
+ 36.8% (.EXE) Win32 EXE Yoda's Crypter [26569]
+  9.1% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  6.2% (.EXE) Win32 Executable (generic) [4508]
+  2.8% (.EXE) Generic Win/DOS Executable [2002]
+  2.8% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/27 15:29:03
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\data.xp3"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.XP3) KiriKiri Adventure Game System package [10000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/27 15:29:14
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\dracuriot.dat"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 66.4% (.EXE) WinRAR Self Extracting archive [518022]
+ 28.3% (.DLL) Win32 Dynamic Link Library - Borland C/C++ [220677]
+  1.7% (.SCR) Windows Screen Saver [13102]
+  1.7% (.EXE) DOS Executable Borland C++ [13007]
+  0.8% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  0.6% (.EXE) Win32 Executable (generic) [4508]
+  0.3% (.EXE) Generic Win/DOS Executable [2002]
+  0.3% (.EXE) DOS Executable Generic [2000]
+  0.0% (.VXD) VXD Driver [31]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/27 15:29:20
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\dracuriot.dat.emb"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/27 15:29:38
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\main.xp3"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.XP3) KiriKiri Adventure Game System package [10000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/27 15:29:47
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\SupportTools.exe"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 67.4% (.EXE) Win32 Executable MS Visual C++ (generic) [31206]
+ 14.2% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  9.7% (.EXE) Win32 Executable (generic) [4508]
+  4.3% (.EXE) Generic Win/DOS Executable [2002]
+  4.3% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/27 15:30:21
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\plugin\dracuriot.tpm"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 67.4% (.EXE) Win32 Executable MS Visual C++ (generic) [31206]
+ 14.2% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  9.7% (.EXE) Win32 Executable (generic) [4508]
+  4.3% (.EXE) Generic Win/DOS Executable [2002]
+  4.3% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/27 15:30:31
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\dracuriot.exe"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 66.4% (.EXE) WinRAR Self Extracting archive [518022]
+ 28.3% (.DLL) Win32 Dynamic Link Library - Borland C/C++ [220677]
+  1.7% (.SCR) Windows Screen Saver [13102]
+  1.7% (.EXE) DOS Executable Borland C++ [13007]
+  0.8% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  0.6% (.EXE) Win32 Executable (generic) [4508]
+  0.3% (.EXE) Generic Win/DOS Executable [2002]
+  0.3% (.EXE) DOS Executable Generic [2000]
+  0.0% (.VXD) VXD Driver [31]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/27 15:31:10
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\data.xp3"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.XP3) KiriKiri Adventure Game System package [10000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/8/27 21:43:45
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "E:\火狐图片\t1.qpic.cn\2013-08-27 460"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 50.0% (.JPG) JFIF JPEG Bitmap [4003]
+ 37.5% (.JPG) JPEG Bitmap [3000]
+ 12.5% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/2 12:59:43
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\Crazy Taxi 3\[疯狂出租车3高速狂奔].Crazy.Taxi.3.High.Roller-Vace.Rip\vacect3.ace"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/2 12:59:58
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\Crazy Taxi 3\[疯狂出租车3高速狂奔].Crazy.Taxi.3.High.Roller-Vace.Rip\vacect3.c00"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/3 16:31:15
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "K:\[魔穗字幕组][Celeb]魍魎の贄 一人目「BAD END 孕ませ地獄 千尋と鈴白」\[Maho.sub] 魍魎の贄 一人目「BAD END 孕ませ地獄 千尋と鈴白」.ass"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 98.5% (.ASS) SubStation Alpha Subtitle (Unicode) [197000]
+  1.0% (.TXT) Text - UTF-16 (LE) encoded [2000]
+  0.5% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/6 0:34:02
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "K:\加藤鹰-秘技传授\[教学]加藤鹰-秘技传授1(接吻,爱抚,舌技).mpg"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 50.3% (.AVI) AVI Audio Video Interleaved [4043]
+ 49.7% (.) Generic RIFF container [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/6 0:34:22
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "K:\加藤鹰-秘技传授\[教学]加藤鹰-秘技传授2(指技,异物插入).mpg"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.MPG/MPEG) MPEG Video [3000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/6 0:35:34
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "K:\[6月新番][次元字幕组] Reunion「理英先生の個人授業～可愛く拗ねる年上の彼女～」[双格式]\[6月新番][次元字幕组] Reunion「理英先生の個人授業～可愛く拗ねる年上の彼女～」[RV10_704x396].rmvb"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 88.9% (.RMVB) RealVideo Variable Bit Rate [72508]
+ 11.1% (.RM) Real Media stream [9018]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/17 23:24:11
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "J:\Shining Star Lily's\lily_01_百合の花探求クラブ_～禁断のトライアングル～\百合の花探求クラブ ～禁断のトライアングル～\B.vdt"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 77.8% (.OGG) OGG Vorbis Audio [14014]
+ 22.2% (.OGG) OGG stream (generic) [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/17 23:24:20
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "J:\Shining Star Lily's\lily_01_百合の花探求クラブ_～禁断のトライアングル～\百合の花探求クラブ ～禁断のトライアングル～\Im24.cdt"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/17 23:24:27
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "J:\Shining Star Lily's\lily_01_百合の花探求クラブ_～禁断のトライアングル～\百合の花探求クラブ ～禁断のトライアングル～\se.pdt"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 77.8% (.OGG) OGG Vorbis Audio [14014]
+ 22.2% (.OGG) OGG stream (generic) [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/17 23:24:32
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "J:\Shining Star Lily's\lily_01_百合の花探求クラブ_～禁断のトライアングル～\百合の花探求クラブ ～禁断のトライアングル～\mk.dat"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 55.9% (.HSC) HSC music composer song [1267]
+ 44.1% (.) LTAC compressed audio (v1.71) [1001]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/17 23:24:39
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "J:\Shining Star Lily's\lily_01_百合の花探求クラブ_～禁断のトライアングル～\百合の花探求クラブ ～禁断のトライアングル～\bgm.ovd"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 77.8% (.OGG) OGG Vorbis Audio [14014]
+ 22.2% (.OGG) OGG stream (generic) [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/17 23:24:42
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "J:\Shining Star Lily's\lily_01_百合の花探求クラブ_～禁断のトライアングル～\百合の花探求クラブ ～禁断のトライアングル～\A.vdt"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 77.8% (.OGG) OGG Vorbis Audio [14014]
+ 22.2% (.OGG) OGG stream (generic) [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/19 0:03:29
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "E:\中山大学南方学院网络认证客户端\中山大学南方学院网络认证客户端.EXE"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 43.6% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+ 29.9% (.EXE) Win32 Executable (generic) [4508]
+ 13.3% (.EXE) Generic Win/DOS Executable [2002]
+ 13.2% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/21 22:13:42
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\evimage.xp3"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.XP3) KiriKiri Adventure Game System package [10000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/21 22:22:53
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\sound.xp3"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.XP3) KiriKiri Adventure Game System package [10000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/21 22:23:55
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\dracuriot.dat"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 66.4% (.EXE) WinRAR Self Extracting archive [518022]
+ 28.3% (.DLL) Win32 Dynamic Link Library - Borland C/C++ [220677]
+  1.7% (.SCR) Windows Screen Saver [13102]
+  1.7% (.EXE) DOS Executable Borland C++ [13007]
+  0.8% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  0.6% (.EXE) Win32 Executable (generic) [4508]
+  0.3% (.EXE) Generic Win/DOS Executable [2002]
+  0.3% (.EXE) DOS Executable Generic [2000]
+  0.0% (.VXD) VXD Driver [31]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/21 22:24:10
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\main.xp3"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.XP3) KiriKiri Adventure Game System package [10000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/21 22:24:13
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\dracuriot.dat"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 66.4% (.EXE) WinRAR Self Extracting archive [518022]
+ 28.3% (.DLL) Win32 Dynamic Link Library - Borland C/C++ [220677]
+  1.7% (.SCR) Windows Screen Saver [13102]
+  1.7% (.EXE) DOS Executable Borland C++ [13007]
+  0.8% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  0.6% (.EXE) Win32 Executable (generic) [4508]
+  0.3% (.EXE) Generic Win/DOS Executable [2002]
+  0.3% (.EXE) DOS Executable Generic [2000]
+  0.0% (.VXD) VXD Driver [31]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/22 11:30:21
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\plugin\dracuriot.tpm"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 67.4% (.EXE) Win32 Executable MS Visual C++ (generic) [31206]
+ 14.2% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  9.7% (.EXE) Win32 Executable (generic) [4508]
+  4.3% (.EXE) Generic Win/DOS Executable [2002]
+  4.3% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/22 22:07:20
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\savedata\data0001.bmp"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.BMP) Windows Bitmap [2000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/22 22:08:04
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\savedata\datasc.ksd"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/22 22:08:15
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\savedata\krenvprf.kep"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.INI) Generic INI configuration [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/22 22:08:34
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\savedata\dracuriot.cfu"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/22 22:08:36
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\savedata\datasu.ksd"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/22 22:08:38
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\savedata\datasc.ksd"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/22 22:08:41
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\savedata\data_anchor.ksd"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 37.2% (.RLE) Run Lenght Encoded bitmap [2050]
+ 36.3% (.BMP) Windows Bitmap [2000]
+ 23.0% (.HSC) HSC music composer song [1267]
+  1.6% (.SMT) Memo File Apollo Database Engine [88]
+  1.1% (.CEL) Lumena CEL bitmap [63]
+  0.7% (.CPT) Corel Photo Paint [41]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/22 22:08:54
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\savedata\data0016.bmp"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.BMP) Windows Bitmap [2000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/22 22:08:56
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\savedata\data0027.bmp"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.BMP) Windows Bitmap [2000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/22 22:12:36
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!\data.xp3"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/22 22:54:19
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\moeskydat"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/23 13:14:46
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\data\motion\sd\sd101.psb"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/23 13:17:19
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\evimage\ev101a.pimg"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/23 13:18:32
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\evimage\ev101a.pimg"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/23 14:08:36
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\expimg\merge_pimg.pl"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.PL) Perl script [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/23 14:09:17
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\expimg\merge_pimg.pl"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.PL) Perl script [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/23 18:38:41
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\提取\evimage\ev101a+pimg+332.tlg"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/23 19:08:19
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "L:\DRACU-RIOT!非高压版\DRACU-RIOT!（汉硬）\DRACU-RIOT!\提取\evimage\merge_pimg.pl"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.PL) Perl script [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/27 14:02:55
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "C:\Program Files (x86)\NFSYSU\skinh.she"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/27 14:03:02
+
+正在加载数据库...
+找到文件类型个数:5088
+正在加载目标文件 "C:\Program Files (x86)\NFSYSU\vpninstall.dll"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 52.5% (.EXE) Win32 Executable MS Visual C++ (generic) [31206]
+ 22.1% (.SCR) Windows Screen Saver [13102]
+ 11.1% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  7.6% (.EXE) Win32 Executable (generic) [4508]
+  3.4% (.EXE) Generic Win/DOS Executable [2002]
+  3.4% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/29 0:56:17
+
+正在加载数据库...
+找到文件类型个数:5128
+正在加载目标文件 "J:\へんしん!!!パンツになってクンクンペロペロ パン ツー パック! 初回生産限定\May-Be SOFT\HENSIN-PKP\CG\CGPACK.pak"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/29 0:56:22
+
+正在加载数据库...
+找到文件类型个数:5128
+正在加载目标文件 "J:\へんしん!!!パンツになってクンクンペロペロ パン ツー パック! 初回生産限定\May-Be SOFT\HENSIN-PKP\CG\CGPACK.idx"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.BS/BIN) PrintFox (C64) bitmap [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/29 1:01:41
+
+正在加载数据库...
+找到文件类型个数:5128
+正在加载目标文件 "J:\へんしん!!!パンツになってクンクンペロペロ パン ツー パック! 初回生産限定\May-Be SOFT\HENSIN-PKP\Script\SCPACK.pak"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 83.6% (.HSC) HSC music composer song [1267]
+  5.8% (.SMT) Memo File Apollo Database Engine [88]
+  4.2% (.CEL) Lumena CEL bitmap [63]
+  2.7% (.CPT) Corel Photo Paint [41]
+  2.0% (.VXD) VXD Driver [31]
+  1.3% (.DBF) Sybase iAnywhere database files [19]
+  0.5% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/29 1:01:53
+
+正在加载数据库...
+找到文件类型个数:5128
+正在加载目标文件 "J:\へんしん!!!パンツになってクンクンペロペロ パン ツー パック! 初回生産限定\May-Be SOFT\HENSIN-PKP\Wave\WAVEPACK.pak"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 50.0% (.WAV) RIFF/WAVe standard Audio [4008]
+ 50.0% (.) Generic RIFF container [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/29 1:01:57
+
+正在加载数据库...
+找到文件类型个数:5128
+正在加载目标文件 "J:\へんしん!!!パンツになってクンクンペロペロ パン ツー パック! 初回生産限定\May-Be SOFT\HENSIN-PKP\Wave\WAVEPACK.pak"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 50.0% (.WAV) RIFF/WAVe standard Audio [4008]
+ 50.0% (.) Generic RIFF container [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/29 1:02:02
+
+正在加载数据库...
+找到文件类型个数:5128
+正在加载目标文件 "J:\へんしん!!!パンツになってクンクンペロペロ パン ツー パック! 初回生産限定\May-Be SOFT\HENSIN-PKP\CG\CGPACK.pak"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/29 1:02:04
+
+正在加载数据库...
+找到文件类型个数:5128
+正在加载目标文件 "J:\へんしん!!!パンツになってクンクンペロペロ パン ツー パック! 初回生産限定\May-Be SOFT\HENSIN-PKP\CG\CGPACK.idx"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.BS/BIN) PrintFox (C64) bitmap [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/30 15:39:45
+
+正在加载数据库...
+找到文件类型个数:5128
+正在加载目标文件 "I:\Umisic\妹汁 主题曲.webm"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.FLV) Flash Video [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/9/30 15:54:09
+
+正在加载数据库...
+找到文件类型个数:5128
+正在加载目标文件 "I:\红警2\KEYGEN.EXE"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 67.4% (.EXE) Win32 Executable MS Visual C++ (generic) [31206]
+ 14.2% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  9.7% (.EXE) Win32 Executable (generic) [4508]
+  4.3% (.EXE) Generic Win/DOS Executable [2002]
+  4.3% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/1 11:20:41
+
+正在加载数据库...
+找到文件类型个数:5128
+正在加载目标文件 "C:\sinf\myfilter.cat"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 50.0% (.DER) DER encoded X509 Certificate [2000]
+ 25.0% (.P7S) PKCS #7 Signature [1001]
+ 25.0% (.CAT) Microsoft Security Catalog [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/1 11:21:01
+
+正在加载数据库...
+找到文件类型个数:5128
+正在加载目标文件 "C:\sinf\FAmt.sys"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 49.9% (.EXE) Generic Win/DOS Executable [2002]
+ 49.9% (.EXE) DOS Executable Generic [2000]
+  0.2% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/4 16:55:24
+
+正在加载数据库...
+找到文件类型个数:5128
+正在加载目标文件 "I:\Umisic\Pixels.webm"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 68.0% (.WEBM) WebM video [8500]
+ 32.0% (.) Matroska stream (generic) [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/5 17:24:35
+
+正在加载数据库...
+找到文件类型个数:5128
+正在加载目标文件 "J:\东方永夜抄\东方永夜抄 中文版\thbgm.dat"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/12 8:19:36
+
+正在加载数据库...
+找到文件类型个数:5139
+正在加载目标文件 "M:\M\[アリス☆メイド] 敗国の王女ティア～忍び寄る淫欲と絶望の世界～.zip"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.ZIP) ZIP compressed archive [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/12 11:52:34
+
+正在加载数据库...
+找到文件类型个数:5139
+正在加载目标文件 "M:\M\[Nightmare Express-悪夢の宅配便-] 欲望回帰特選集-緊縛拘束 in 強制レズファック-.zip"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.ZIP) ZIP compressed archive [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/14 23:33:10
+
+正在加载数据库...
+找到文件类型个数:5139
+正在加载目标文件 "X:\2013-10-14LastPass加密备份.xml"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/16 8:23:16
+
+正在加载数据库...
+找到文件类型个数:5139
+正在加载目标文件 "M:\strongdc++_3.00_setup.exe"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 31.0% (.EXE) Win32 Executable MS Visual C++ (generic) [31206]
+ 27.5% (.EXE) Win64 Executable (generic) [27653]
+ 26.4% (.EXE) Win32 EXE Yoda's Crypter [26569]
+  6.5% (.DLL) Win32 Dynamic Link Library (generic) [6581]
+  4.5% (.EXE) Win32 Executable (generic) [4508]
+  2.0% (.EXE) Generic Win/DOS Executable [2002]
+  2.0% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/17 12:08:25
+
+正在加载数据库...
+找到文件类型个数:5139
+正在加载目标文件 "M:\97595 Horie Yui - True truly love.osz"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.ZIP) ZIP compressed archive [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/17 12:09:12
+
+正在加载数据库...
+找到文件类型个数:5139
+正在加载目标文件 "M:\97595 Horie Yui - True truly love\Horie Yui - True truly love (Silynn) [True truly jump AR10].osu"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/17 12:09:15
+
+正在加载数据库...
+找到文件类型个数:5139
+正在加载目标文件 "M:\97595 Horie Yui - True truly love\Horie Yui - True truly love (Silynn) [True truly jump].osu"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/19 22:30:53
+
+正在加载数据库...
+找到文件类型个数:5139
+正在加载目标文件 "U:\Shining Star Lily's\[isoHunt] [Shining Star Lily's] 百合の花三重奏～私だけのアイドル～.rar.torrent"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 57.7% (.TORRENT) BitTorrent Link (Trackerless) [15000]
+ 42.3% (.TORRENT) BitTorrent Link [11000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/20 22:49:32
+
+正在加载数据库...
+找到文件类型个数:5139
+正在加载目标文件 "M:\(同人ゲーム) [猫拳]　触手実験室「TENTACLE ROOM」.lzh"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.LZH/LHA) LHARC/LZARK compressed archive [6]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/23 22:26:05
+
+正在加载数据库...
+找到文件类型个数:5139
+正在加载目标文件 "M:\绝顶性器大发明-解包\JB\fgimage\AKI_CO_001.tlg"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/24 23:09:10
+
+正在加载数据库...
+找到文件类型个数:5139
+正在加载目标文件 "M:\[女仆咖啡帕露菲][青风@星空][杀风景]\PARFAITRO.Alpha.img"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 83.3% (.ISO) ISO CDImage - universal format e.g. WinISO or IsoBuster [16707]
+  6.3% (.HSC) HSC music composer song [1267]
+  5.1% (.) MacBinary 1 header [1029]
+  5.0% (.) MacBinary 2 header [1002]
+  0.2% (.CPT) Corel Photo Paint [41]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/10/29 21:46:44
+
+正在加载数据库...
+找到文件类型个数:5139
+正在加载目标文件 "W:\彩漫同人42本\彩漫同人42本\(C74) (同人誌) [大蔵別館] みんなで仲良く (CLANNAD)\Thumbs.db"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 64.5% (.DB) Windows XP Thumbnail Database [14521]
+ 35.5% (.) Generic OLE2 / Multistream Compound File [8000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/11/2 22:50:20
+
+正在加载数据库...
+找到文件类型个数:5155
+正在加载目标文件 "F:\Data\profile\viewmarks\viewmarks.sqlite"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 92.2% (.) SQLite 3.x database [15000]
+  7.8% (.HSC) HSC music composer song [1267]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/11/2 22:50:41
+
+正在加载数据库...
+找到文件类型个数:5155
+正在加载目标文件 "F:\Data\profile\bookmarkbackups\bookmarks-2013-11-02_5735.json"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/11/8 13:37:40
+
+正在加载数据库...
+找到文件类型个数:5155
+正在加载目标文件 "M:\初音岛\D.C. Plus Communication ~ ダ` カーポ~ プラスコミュニケーション\AdvData\SE\006.pcm"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/11/8 13:37:44
+
+正在加载数据库...
+找到文件类型个数:5155
+正在加载目标文件 "M:\初音岛\D.C. Plus Communication ~ ダ` カーポ~ プラスコミュニケーション\AdvData\MES\0223a_f02.mes"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.CEL) Lumena CEL bitmap [63]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/11/8 13:37:57
+
+正在加载数据库...
+找到文件类型个数:5155
+正在加载目标文件 "M:\初音岛\D.C. Plus Communication ~ ダ` カーポ~ プラスコミュニケーション\AdvData\GRP\BG\a02a.CRX"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/11/8 13:38:05
+
+正在加载数据库...
+找到文件类型个数:5155
+正在加载目标文件 "M:\初音岛\D.C. Plus Communication ~ ダ` カーポ~ プラスコミュニケーション\AdvData\GRP\BST\b04a_09x.CRX"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/11/8 13:38:14
+
+正在加载数据库...
+找到文件类型个数:5155
+正在加载目标文件 "M:\初音岛\D.C. Plus Communication ~ ダ` カーポ~ プラスコミュニケーション\AdvData\GRP\STAFF\ea04.CRX"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/11/8 13:38:19
+
+正在加载数据库...
+找到文件类型个数:5155
+正在加载目标文件 "M:\初音岛\D.C. Plus Communication ~ ダ` カーポ~ プラスコミュニケーション\AdvData\GRP\SYSTEM\cg.CRX"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/11/15 20:10:31
+
+正在加载数据库...
+找到文件类型个数:5155
+正在加载目标文件 "M:\【Tora-Tora Platinum Vol.52 超人氣女優M開腿：小澤瑪莉亞】〖無碼〗\3089.wmv"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 94.1% (.WMV/WMA) Windows Media (generic) [16019]
+  5.9% (.CAT) Microsoft Security Catalog [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/11/24 22:37:22
+
+正在加载数据库...
+找到文件类型个数:5155
+正在加载目标文件 "K:\机械女仆\机械女仆.eif"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.) Generic OLE2 / Multistream Compound File [8000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/11/24 22:57:29
+
+正在加载数据库...
+找到文件类型个数:5155
+正在加载目标文件 "K:\机械女仆\2707\2707\131073.buka"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/11/24 22:58:14
+
+正在加载数据库...
+找到文件类型个数:5155
+正在加载目标文件 "K:\机械女仆\2707\2707\chaporder.dat"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/11/24 22:58:39
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "K:\机械女仆\2707\2707\chaporder.dat"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/12/5 10:09:32
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\新版新理念大学英语网络教学系统客户端（自主学习）\客户端安装包setup_v1.1.0.106(120209).exe"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 48.2% (.EXE) InstallShield setup [43053]
+ 34.9% (.EXE) Win32 Executable MS Visual C++ (generic) [31206]
+  7.4% (.DLL) Win32 Dynamic Link Library (generic) [6578]
+  5.0% (.EXE) Win32 Executable (generic) [4508]
+  2.2% (.EXE) Generic Win/DOS Executable [2002]
+  2.2% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/12/11 0:08:22
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "D:\Wall2\Windows-Standard.tls"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.ZIP) ZIP compressed archive [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/12/12 23:51:45
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\指针.pptx"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 97.4% (.PPTX) PowerPoint Microsoft Office Open XML Format document [147019]
+  2.6% (.ZIP) ZIP compressed archive [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/12/12 23:52:05
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "M:\C\高级语言程序设计 实验报告 (八).docx"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 91.8% (.DOCX) Word Microsoft Office Open XML Format document [45000]
+  8.2% (.ZIP) ZIP compressed archive [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/12/12 23:52:23
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "M:\办公软件实验\第十四周（实验8）\TEST8-C.xlsx"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 92.7% (.XLSX) Excel Microsoft Office Open XML Format document [50500]
+  7.3% (.ZIP) ZIP compressed archive [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/12/13 23:35:45
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\QQ截图20131101154216.png"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/12/26 12:39:47
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\h.acfun.tv\2013-12-26 face[1].php"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 59.2% (.GIF) GIF animated bitmap [14500]
+ 24.5% (.GIF) GIF89a Bitmap [6000]
+ 12.2% (.GIF) GIF Bitmap (generic) [3000]
+  4.1% (.BS/BIN) PrintFox (C64) bitmap [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/12/26 12:40:01
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\h.acfun.tv\2013-12-26 face.php"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 59.2% (.GIF) GIF animated bitmap [14500]
+ 24.5% (.GIF) GIF89a Bitmap [6000]
+ 12.2% (.GIF) GIF Bitmap (generic) [3000]
+  4.1% (.BS/BIN) PrintFox (C64) bitmap [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/12/26 12:40:19
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\h.acfun.tv\2013-12-26 cover.php"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 55.6% (.JPG) JFIF-EXIF JPEG Bitmap [5000]
+ 33.3% (.JPG) JPEG Bitmap [3000]
+ 11.1% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/12/26 23:03:28
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\record20131224120214.ogg"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 77.8% (.OGG) OGG Vorbis Audio [14014]
+ 22.2% (.OGG) OGG stream (generic) [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/12/30 18:49:46
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\鬼父\鬼父\爸爸去哪了。。。\新建文件夹 (2)\[091030]鬼父 -愛娘強制発情- 上巻「小生意気なホットパンツ」.torrent"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 57.7% (.TORRENT) BitTorrent Link (Trackerless) [15000]
+ 42.3% (.TORRENT) BitTorrent Link [11000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2013/12/30 18:49:51
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\鬼父\鬼父\爸爸去哪了。。。\新建文件夹 (2)\[HS字幕][鬼父 第1～4话].torrent"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 57.7% (.TORRENT) BitTorrent Link (Trackerless) [15000]
+ 42.3% (.TORRENT) BitTorrent Link [11000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/5 8:13:29
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "K:\花右京女佣队\【梦幻旋律】花右京メイド隊 La Verite OST(flac+cue+log)\田中理恵,大島ミチル - 花右京メイド隊 La Verite OST.flac.bt.td"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.FLAC/FLA) FLAC lossless compressed audio [4000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/8 17:43:12
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "M:\[魔穗字幕组][魔人]euphoria 1-2+CG[1280x720]\1.txt"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 55.6% (.JPG) JFIF-EXIF JPEG Bitmap [5000]
+ 33.3% (.JPG) JPEG Bitmap [3000]
+ 11.1% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/8 22:32:47
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "M:\1969~2013年1~5月里番种子包+封面.xxe"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/11 16:29:06
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "I:\minecraft\F\1.7.2V1客户端.exe"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 67.4% (.EXE) Win32 Executable MS Visual C++ (generic) [31206]
+ 14.2% (.DLL) Win32 Dynamic Link Library (generic) [6578]
+  9.7% (.EXE) Win32 Executable (generic) [4508]
+  4.3% (.EXE) Generic Win/DOS Executable [2002]
+  4.3% (.EXE) DOS Executable Generic [2000]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/21 21:40:18
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "H:\C++\C++\LQ\HuiWenSu\doxygen\doxyfile"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/23 13:33:16
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\熊孩子の绝望电梯\整人电梯\level.dat"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.Z/GZ/GZIP) GZipped File [3000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/23 13:33:26
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\熊孩子の绝望电梯\整人电梯\session.lock"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.MPG/MPEG) MPEG Video [3000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/23 13:33:31
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\熊孩子の绝望电梯\整人电梯\level.dat_old"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.Z/GZ/GZIP) GZipped File [3000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/23 13:33:34
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\熊孩子の绝望电梯\整人电梯\level.dat"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.Z/GZ/GZIP) GZipped File [3000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/23 13:33:39
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\熊孩子の绝望电梯\整人电梯\region\r.0.0.mca"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 50.7% (.) MacBinary 1 header [1029]
+ 49.3% (.) MacBinary 2 header [1002]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/23 13:33:57
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\熊孩子の绝望电梯\整人电梯\region\r.0.-1.mca"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 99.6% (.) null bytes [2048000]
+  0.1% (.WK*) Lotus 123 Worksheet (generic) [2005]
+  0.1% (.HSC) HSC music composer song [1267]
+  0.1% (.GMC) Game Music Creator Music [1130]
+  0.1% (.) MacBinary 1 header [1029]
+  0.0% (.TGA) Targa bitmap (Original TGA Format - No Image ID) [1007]
+  0.0% (.) MacBinary 2 header [1002]
+  0.0% (.ABR) Adobe PhotoShop Brush [1002]
+  0.0% (.SMT) Memo File Apollo Database Engine [88]
+  0.0% (.CEL) Lumena CEL bitmap [63]
+  0.0% (.CPT) Corel Photo Paint [41]
+  0.0% (.VXD) VXD Driver [31]
+  0.0% (.DBF) Sybase iAnywhere database files [19]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+  0.0% (.TGA) Targa bitmap (Original TGA Format) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/23 13:34:38
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\熊孩子の绝望电梯\整人电梯\region\r.-3.-2.mca"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 99.6% (.) null bytes [2048000]
+  0.1% (.WK*) Lotus 123 Worksheet (generic) [2005]
+  0.1% (.HSC) HSC music composer song [1267]
+  0.1% (.GMC) Game Music Creator Music [1130]
+  0.1% (.) MacBinary 1 header [1029]
+  0.0% (.TGA) Targa bitmap (Original TGA Format - No Image ID) [1007]
+  0.0% (.) MacBinary 2 header [1002]
+  0.0% (.ABR) Adobe PhotoShop Brush [1002]
+  0.0% (.SMT) Memo File Apollo Database Engine [88]
+  0.0% (.CEL) Lumena CEL bitmap [63]
+  0.0% (.CPT) Corel Photo Paint [41]
+  0.0% (.VXD) VXD Driver [31]
+  0.0% (.DBF) Sybase iAnywhere database files [19]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+  0.0% (.TGA) Targa bitmap (Original TGA Format) [7]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/23 13:34:49
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\熊孩子の绝望电梯\整人电梯\data\idcounts.dat"...
+正在分析目标文件的特征码...
+
+没有找到匹配的类型。原因可能是：
+1.目标文件一个纯文本文件。
+2.数据库太旧。
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/23 13:34:52
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "C:\Users\Administrator\Desktop\熊孩子の绝望电梯\整人电梯\data\map_0.dat"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.Z/GZ/GZIP) GZipped File [3000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:14:48
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\github.com\2014-01-01 687474703a2f2f692e696d6775722e636f6d2f44674454572e676966.gif"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 59.2% (.GIF) GIF animated bitmap [14500]
+ 24.5% (.GIF) GIF89a Bitmap [6000]
+ 12.2% (.GIF) GIF Bitmap (generic) [3000]
+  4.1% (.BS/BIN) PrintFox (C64) bitmap [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:14:51
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\github.com\2014-01-01 687474703a2f2f692e696d6775722e636f6d2f5a4d384d762e706e67.jpg"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.PNG) Portable Network Graphics [16000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:15:01
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\github.com\2014-01-01 687474703a2f2f692e696d6775722e636f6d2f7655594c792e706e67.jpg"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.PNG) Portable Network Graphics [16000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:15:09
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\github.com\2014-01-01 687474703a2f2f6935352e74696e797069632e636f6d2f327677776a6c6a2e6a7067.jpg"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.PNG) Portable Network Graphics [16000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:15:16
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\github.com\2014-01-01 687474703a2f2f696d673639302e696d616765736861636b2e75732f696d673639302f313731382f776879756c656176652e706e67.jpg"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.PNG) Portable Network Graphics [16000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:15:26
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\github.com\2014-01-01 687474703a2f2f696d676b6b2e636f6d2f692f707977642e6a7067.jpg"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 32.3% (.JPG) JFIF-EXIF JPEG Bitmap [5000]
+ 25.8% (.JPG) JFIF JPEG Bitmap [4003]
+ 19.4% (.JPG) JPEG Bitmap [3000]
+ 16.1% (.MP3) MP3 audio (ID3 v1.x tag) [2500]
+  6.5% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:15:28
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\github.com\2014-01-01 687474703a2f2f7472617669736b726f62657274732e73332e61.jpg"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.PNG) Portable Network Graphics [16000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:15:35
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\github.com\2014-01-01 slash_usr.png"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.PNG) Portable Network Graphics [16000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:23:22
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\h.acfun.tv\2014-01-28 cover.php"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 55.6% (.JPG) JFIF-EXIF JPEG Bitmap [5000]
+ 33.3% (.JPG) JPEG Bitmap [3000]
+ 11.1% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:23:44
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\h.acfun.tv\2014-01-28 cover[1].php"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 50.0% (.JPG) JFIF JPEG Bitmap [4003]
+ 37.5% (.JPG) JPEG Bitmap [3000]
+ 12.5% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:23:57
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\h.acfun.tv\2014-01-28 cover[2].php"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 50.0% (.JPG) JFIF JPEG Bitmap [4003]
+ 37.5% (.JPG) JPEG Bitmap [3000]
+ 12.5% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:24:18
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\h.acfun.tv\17.php"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 50.0% (.JPG) JFIF JPEG Bitmap [4003]
+ 37.5% (.JPG) JPEG Bitmap [3000]
+ 12.5% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:35:49
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\h.acfun.tv\14.php"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 59.2% (.GIF) GIF animated bitmap [14500]
+ 24.5% (.GIF) GIF89a Bitmap [6000]
+ 12.2% (.GIF) GIF Bitmap (generic) [3000]
+  4.1% (.BS/BIN) PrintFox (C64) bitmap [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:35:59
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\h.acfun.tv\15.php"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 50.0% (.JPG) JFIF JPEG Bitmap [4003]
+ 37.5% (.JPG) JPEG Bitmap [3000]
+ 12.5% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:36:06
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\h.acfun.tv\16.php"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 50.0% (.JPG) JFIF JPEG Bitmap [4003]
+ 37.5% (.JPG) JPEG Bitmap [3000]
+ 12.5% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/28 16:36:09
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "E:\火狐图片\h.acfun.tv\17.php"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 55.6% (.JPG) JFIF-EXIF JPEG Bitmap [5000]
+ 33.3% (.JPG) JPEG Bitmap [3000]
+ 11.1% (.MP3) MP3 audio [1000]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/1/29 18:24:31
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "M:\俺妹黑猫骑马\俺妹黑猫\同人サークルThreefishブログ.swf"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+100.0% (.SWF) Macromedia Flash Player Compressed Movie [3002]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2014/2/4 14:23:16
+
+正在加载数据库...
+找到文件类型个数:5184
+正在加载目标文件 "M:\userkey-2013-10-30.psw"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 80.0% (.PSW) Windows XP Backup Password [4004]
+ 20.0% (.M) Maple Common Binary file (generic) [1001]
+
+分析完成！
+
+******************************************************
+
+FileAnalysis v2.2.1 (C)2008-2010 http://lacsap.cn
+2015/10/21 0:48:12
+
+正在加载数据库...
+找到文件类型个数:5291
+正在加载目标文件 "G:\学习\CTF\CTF常用工具\IdentiUnkown\FileAnalysis V2.2.1 D20140401\FileAnalysis\TrIDLib.dll"...
+正在分析目标文件的特征码...
+找到匹配类型，开始导出结果：
+
+ 89.6% (.EXE) Win32 Executable PowerBASIC/Win 9.x [148303]
+  4.0% (.DLL) Win32 Dynamic Link Library (generic) [6578]
+  2.7% (.EXE) Win32 Executable (generic) [4508]
+  1.3% (.EXE) Win16/32 Executable Delphi generic [2072]
+  1.2% (.EXE) Generic Win/DOS Executable [2002]
+  1.2% (.EXE) DOS Executable Generic [2000]
+  0.0% (.VXD) VXD Driver [31]
+  0.0% (.CEL) Autodesk FLIC Image File (extensions: flc, fli, cel) [7]
+
+分析完成！
+
+******************************************************
+

@@ -1,0 +1,6 @@
+[TIME] 			=> 2021-05-15 15:11:00.930179
+[TARGET] 			=> http://124.71.232.242:22561/
+[NUMBER_OF_THRED] 	=> 10
+[KEY_WORDS] 		=> ['flag', 'ctf', 'admin']
+
+[500] => index.php
